@@ -22,7 +22,8 @@ Usage
   - Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
 Screenshot:
-image.png
+![image](https://user-images.githubusercontent.com/115656280/204603340-7341e5a7-da60-4804-b688-b836a12187e2.png)
+
 
 Credits
 https://www.w3schools.com/js/
